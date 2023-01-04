@@ -13,6 +13,7 @@ export const Hello: FC<IProps> = (props) => {
     <div>
       <h2>hello from ayush</h2>
       <p>This is first day text on first/day branch</p>
+      <p>this pragraph is added by Amrendra </p>
     </div>
     </>
     )
