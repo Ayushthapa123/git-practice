@@ -92,6 +92,20 @@ function index() {
             Git branching is a powerful tool that can greatly improve the efficiency and effectiveness of your development workflow. By using branches to isolate different features and fixes, you can ensure that your main codebase stays stable and reliable while still allowing for flexibility and collaboration among your team.
             </p>
 
+        <h3>Questions to practice on git branching to master yourself on git branching are :</h3>
+        <ol>
+           
+            <li>How to create a new branch and switch to it in one step in git?</li>
+            <li>How to delete a branch that has not been merged into the current branch in git?</li>
+            <li>How to list all branches in the repository, including remote branches, in git?</li>
+            <li>Can you create a branch from any commit in Git, or only from the latest commit in the main branch?</li>
+            <li>What is a "merge conflict" in Git and how do you resolve it?</li>
+            <li>What is a "rebase conflict" in Git and how do you resolve it?</li>
+            <li>What is the difference between a "merge conflict" and a "rebase conflict" in Git?</li>
+            <li>What is the difference between a "fast forward" merge and a "three-way" merge in Git?</li>
+           <li>Can you create a branch from another branch in Git, rather than from the main branch?</li>
+        </ol>
+
 
     </div>
   )
